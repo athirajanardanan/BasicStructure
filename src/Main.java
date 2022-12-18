@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("This is just a basic structure");
+   solarSytem solar=new solarSystem();
+
+   
     }
 }
